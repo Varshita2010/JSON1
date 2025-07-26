@@ -24,6 +24,14 @@
       "id": "5",
       "title": "javascript",
       "views": 400
+<<<<<<< HEAD
+=======
+    },
+    {
+      "id": "3",
+      "title": "Spoorthi",
+      "view": 300
+>>>>>>> 08c7f73628f0ea2d01e35832d88571b543cf88cb
     }
   ],
   "comments": [
